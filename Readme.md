@@ -25,9 +25,13 @@ DeepSea was written for PHPStorm 3.0, but should work on any 3.0+ Storm IDE.
 
 Installation
 ------------
-Copy the .xml file to wherever your IDE stores color schemes on your OS.  On
-Mac, this location is ~/Library/Preferences/WebIde10/colors/.  For extra
-awesomeness, you could fork this theme on GitHub, clone your forked repo,
+Copy the .xml file to wherever your IDE stores color schemes on your OS.
+
+Mac: ~/Library/Preferences/WebIde10/colors
+
+WinXP: C:\Documents and Settings\%user%\.WebIde10\config\colors
+
+For extra awesomeness, you could fork this theme on GitHub, clone your forked repo,
 and symlink the xml file to this location so that you can commit your changes
 and submit pull requests.  You know.  If you're awesome.
 
